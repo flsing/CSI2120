@@ -1,7 +1,7 @@
 # CSI2120
 PROGRAMMING PARADIGMS 
 
-Winter 2017 - Currently in progress
+Winter 2017
 
 Languages: Prolog, Scheme, Go
 
